@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>Hi there 👋</h1>
 
-<h3 align="center">My name is Tran Nhut Linh, I'm currently a 4th year student of information technology school at Can Tho University. I am a tech geek and love learning English.</h3>
+<h3>My name is Tran Nhut Linh, I'm currently a 4th year student of information technology school at Can Tho University. I am a tech geek and love learning English.</h3>
 
 - 🔭 I’m currently working on Mobile Development Flutter and Laravel Framwork 
 
