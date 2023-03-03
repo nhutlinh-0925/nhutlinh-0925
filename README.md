@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">My name is Tran Nhut Linh, I'm currently a 4th year student of information technology school at Can Tho University. I am a tech geek and love learning English.</h3>
 
-- 🔭 I’m currently working on **** Mobile Development Flutter and Laravel Framwork ****
+- 🔭 I’m currently working on Mobile Development Flutter and Laravel Framwork 
 
-- 👯 I’m looking to collaborate on **on Web Development Related Projects ****
+- 👯 I’m looking to collaborate on Web Development Related Projects 
 
-- 🤝 I’m looking for **a trainee position from May 2023 - July 2023**
+- 🤝 I’m looking for a trainee position from May 2023 - July 2023
 
-- ⚡ Fun fact: **I love taking photos and learning English.**
+- ⚡ Fun fact: I love taking photos and learning English.
 
 
 
